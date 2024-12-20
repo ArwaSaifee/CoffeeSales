@@ -1,2 +1,2 @@
 # CoffeeSales
-Taking coffee shop dataset containing orders, customers and products details and building a coffee sales dashboard
+Taking coffee shop dataset containing orders, customers and product details table and building a coffee sales interactive dashboard.
